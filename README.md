@@ -15,8 +15,8 @@ I'm currently collaborating with [DiogoGramunha](https://github.com/DiogoGramunh
 ## 📫 Get in Touch
 Feel free to reach out if you'd like to collaborate or have any questions. I'm always open to connecting with fellow developers and learning from the community.
 
-![GitHub followers](https://img.shields.io/github/followers/CigarettesDoKirk?style=social)
-![GitHub stars](https://img.shields.io/github/stars/CigarettesDoKirk?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Cigarettes1Tamagucci?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Cigarettes1Tamagucci?style=social)
 
 ---
 
